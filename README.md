@@ -29,9 +29,7 @@ cd NeILF/code
 pip install -r requirement.txt
 ```
 ### Download
-* Synthetic dataset:
-* Preprocessed DTU dataset:
-* Preprocessed BlendedMVS dataset:
+Download from [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jzhangbs_connect_ust_hk/Et85aXdprAJGnCSHqchUGVIBf44XMKDx1dOO_Sdg-j3m2Q)
 
 ### Optimization
 Download the datasets used in the paper (synthetic, DTU, and BlendedMVS). Choose one scene and run the following:
