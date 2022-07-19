@@ -29,7 +29,7 @@ cd NeILF/code
 pip install -r requirement.txt
 ```
 ### Download
-Download from [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jzhangbs_connect_ust_hk/Et85aXdprAJGnCSHqchUGVIBf44XMKDx1dOO_Sdg-j3m2Q)
+Download the Synthetic dataset, the preprocessed DTU dataset, and the preprocessed BlendedMVS dataset from [Box](https://apple.box.com/s/epkd7hamlpd7ltrsy4fyilzci19rz84r). Note that for the Synthetic dataset, all scenes shares the same geometry files and the BRDF ground truths. We only provide the geometry files and the BRDF GT in `synthetic_city`, and users may structure the input of another scene by substituting the image folder (`synthetic_city/inputs/images`) to another input image folder.
 
 ### Optimization
 Download the datasets used in the paper (synthetic, DTU, and BlendedMVS). Choose one scene and run the following:
