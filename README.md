@@ -1,5 +1,7 @@
 # NeILF: Neural Incident Light Field for Material and Lighting Estimation"
 
+__*UPDATE: This repo will not be maintained anymore. Please refer to the [official release](https://github.com/apple/ml-neilf).__
+
 This repo is a Pytorch implementation of [NeILF: Neural Incident Light Field for Physically-based Material Estimation](https://arxiv.org/abs/2203.07182v2) and can be used to reproduce the results in the paper.
 
 
